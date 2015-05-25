@@ -1,5 +1,7 @@
-##WDI SEA 2014-2015 Assignment
-###First lesson on Bootstrap
+###2014-2015, WDI COURSE ASSIGNMENT
+####First lesson on Bootstrap
+***
+
 
 
 ## Mockups Lab
