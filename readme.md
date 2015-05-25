@@ -1,10 +1,14 @@
+##WDI SEA 2014-2015 Assignment
+###First lesson on Bootstrap
+
+
 ## Mockups Lab
 
-For today's lab, we'd like you to code up the mockups using Twitter Bootstrap. 
+For today's lab, we'd like you to code up the mockups using Twitter Bootstrap.
 
 ## Getting Started
 
-1. For each mockup, create a new HTML page and include Twitter Bootstrap in your head tag 
+1. For each mockup, create a new HTML page and include Twitter Bootstrap in your head tag
 
 ```
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
